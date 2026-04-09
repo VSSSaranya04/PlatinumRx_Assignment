@@ -97,7 +97,7 @@ Removed duplicate characters from a string using loops.
 
 * **GitHub Repository:** https://github.com/VSSSaranya04/PlatinumRx_Assignment
 * **Spreadsheet Link:** https://docs.google.com/spreadsheets/d/1lPM8HhXO4GpixKUGbO-4U34zgepVtKsdTZUg5a-KEy8/edit?usp=sharing
-
+* **Screen Recording Link:** https://www.loom.com/share/721385ddee2948aaa0b62375e2638729
 ---
 
 ## ✅ Conclusion
